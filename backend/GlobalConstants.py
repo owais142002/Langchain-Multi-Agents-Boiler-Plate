@@ -1,0 +1,6 @@
+LLM_API_KEY = ''
+LLM_MODEL = ""
+SQL_CONNECTION_STRING = "" #"mysql+pymysql://root:owaisahmed123@localhost:3306/<DBNAME>"
+MAIN_AGENT_SYSTEM_MESSAGE = ""
+IS_DEBUG_MODE = True
+MAX_AGENT_ITERATIONS = 5
